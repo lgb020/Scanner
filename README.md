@@ -5,9 +5,9 @@
 
 <table>
     <tr>
-        <td><img width="270" height="480" src="https://github.com/shouzhong/Scanner/blob/master/img/1.jpg"/></td>
-        <td><img width="270" height="480" src="https://github.com/shouzhong/Scanner/blob/master/img/2.jpg"/></td>
-        <td><img width="270" height="480" src="https://github.com/shouzhong/Scanner/blob/master/img/3.jpg"/></td>
+        <td><img width="270" src="https://github.com/shouzhong/Scanner/blob/master/img/1.jpg"/></td>
+        <td><img width="270" src="https://github.com/shouzhong/Scanner/blob/master/img/2.jpg"/></td>
+        <td><img width="270" src="https://github.com/shouzhong/Scanner/blob/master/img/3.jpg"/></td>
     </tr>
 </table>
 

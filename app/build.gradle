@@ -19,7 +19,6 @@ android {
 }
 
 dependencies {
-    implementation fileTree(dir: 'libs', include: ['*.jar'])
     implementation 'androidx.appcompat:appcompat:1.0.2'
     implementation "com.google.zxing:core:3.3.3"
     implementation project(":lib")
@@ -27,7 +26,6 @@ dependencies {
     implementation project(":bankcard")
     implementation project(":idcard")
 //    implementation 'com.shouzhong:Scanner:1.0.1'
-//    implementation 'com.google.zxing:core:3.3.3'
 //    implementation 'com.shouzhong:ScannerZBarLib:1.0.0'
 //    implementation 'com.shouzhong:ScannerBankCardLib:1.0.0'
 //    implementation 'com.shouzhong:ScannerIdCardLib:1.0.1'
