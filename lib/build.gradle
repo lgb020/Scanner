@@ -13,10 +13,10 @@ android {
 }
 
 dependencies {
-    implementation "com.google.zxing:core:3.3.3"
-    implementation project(":zbar")
-    implementation project(":bankcard")
-    implementation project(":idcard")
+    compileOnly "com.google.zxing:core:3.3.3"
+    compileOnly project(":zbar")
+    compileOnly project(":bankcard")
+    compileOnly project(":idcard")
 }
 
 //发布 Jcenter

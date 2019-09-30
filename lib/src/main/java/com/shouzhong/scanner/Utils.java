@@ -362,7 +362,7 @@ class Utils {
             File file = new File(pathname);
             if (file.exists()) return true;
             //在assets资产目录下获取授权文件
-            InputStream myInput = context.getResources().openRawResource(R.raw.zocr0);
+            InputStream myInput = context.getAssets().open("zocr0.lib");
             //将授权文件写到 data/data/包名 目录下
             OutputStream myOutput = new FileOutputStream(pathname);
             byte[] buffer = new byte[1024];

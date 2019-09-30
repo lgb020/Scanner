@@ -14,7 +14,7 @@
 ## 使用
 ### 依赖
 ```
-implementation 'com.shouzhong:Scanner:1.0.0'
+implementation 'com.shouzhong:Scanner:1.0.1'
 ```
 以下选择自己需要的
 ```
@@ -25,7 +25,7 @@ implementation 'com.shouzhong:ScannerZBarLib:1.0.0'
 // 银行卡识别
 implementation 'com.shouzhong:ScannerBankCardLib:1.0.0'
 // 身份证识别
-implementation 'com.shouzhong:ScannerIdCardLib:1.0.0'
+implementation 'com.shouzhong:ScannerIdCardLib:1.0.1'
 ```
 ### 代码
 基本使用
